@@ -1,0 +1,96 @@
+
+
+Version:	3.50
+CmdLine:	E:\Johan Mendoza\Documentos\UPIICSA ESCUELA\UPIICSA 2021602091\Progra\POO\4F_FINALJH\dist\4F.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Johan Mendoza\Documentos\UPIICSA ESCUELA\UPIICSA 2021602091\Progra\POO\4F_FINALJH\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;E:\Program Files\Microsoft SQL Server\150\Tools\Binn\;E:\Program Files\Microsoft SQL Server\150\DTS\Binn\;E:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;E:\Johan Mendoza\AppData\Local\Programs\Python\Python311\Scripts\;E:\Johan Mendoza\AppData\Local\Programs\Python\Python311\;C:\Users\teent\AppData\Local\Microsoft\WindowsApps;;E:\Microsoft VS Code\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;E:\Program Files\Microsoft SQL Server\150\Tools\Binn\;E:\Program Files\Microsoft SQL Server\150\DTS\Binn\;E:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;E:\Johan Mendoza\AppData\Local\Programs\Python\Python311\Scripts\;E:\Johan Mendoza\AppData\Local\Programs\Python\Python311\;C:\Users\teent\AppData\Local\Microsoft\WindowsApps;;E:\Microsoft VS Code\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	E:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	E:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	E:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	E:\Program Files\Microsoft SQL Server\150\DTS\Binn\bin\javaw.exe (not found)
+Check launcher:	E:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Azure Data Studio\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	E:\Johan Mendoza\AppData\Local\Programs\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	E:\Johan Mendoza\AppData\Local\Programs\Python\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Users\teent\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	E:\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Azure Data Studio\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe
+Launcher args:	-jar "E:\Johan Mendoza\Documentos\UPIICSA ESCUELA\UPIICSA 2021602091\Progra\POO\4F_FINALJH\dist\4F.exe"
+Args length:	103/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	E:\Johan Mendoza\Documentos\UPIICSA ESCUELA\UPIICSA 2021602091\Progra\POO\4F_FINALJH\dist\4F.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\Johan Mendoza\Documentos\UPIICSA ESCUELA\UPIICSA 2021602091\Progra\POO\4F_FINALJH\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;E:\Program Files\Microsoft SQL Server\150\Tools\Binn\;E:\Program Files\Microsoft SQL Server\150\DTS\Binn\;E:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;E:\Johan Mendoza\AppData\Local\Programs\Python\Python311\Scripts\;E:\Johan Mendoza\AppData\Local\Programs\Python\Python311\;C:\Users\teent\AppData\Local\Microsoft\WindowsApps;;E:\Microsoft VS Code\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;E:\Program Files\Microsoft SQL Server\150\Tools\Binn\;E:\Program Files\Microsoft SQL Server\150\DTS\Binn\;E:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;E:\Johan Mendoza\AppData\Local\Programs\Python\Python311\Scripts\;E:\Johan Mendoza\AppData\Local\Programs\Python\Python311\;C:\Users\teent\AppData\Local\Microsoft\WindowsApps;;E:\Microsoft VS Code\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	E:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	E:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	E:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	E:\Program Files\Microsoft SQL Server\150\DTS\Binn\bin\javaw.exe (not found)
+Check launcher:	E:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Azure Data Studio\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	E:\Johan Mendoza\AppData\Local\Programs\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	E:\Johan Mendoza\AppData\Local\Programs\Python\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Users\teent\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	E:\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Azure Data Studio\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_351
+Version string: 1.008.000_351 / 64-Bit (Ignore)
+Ignore:		1.008.000_351
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\19.0.1
+Version string: 1.019.000_001 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe (OK)
+Match:		1.019.000_001
+Runtime used:	1.019.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe
+Launcher args:	-jar "E:\Johan Mendoza\Documentos\UPIICSA ESCUELA\UPIICSA 2021602091\Progra\POO\4F_FINALJH\dist\4F.exe"
+Args length:	103/32768 chars
+Exit code:	0
